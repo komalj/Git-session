@@ -9,4 +9,6 @@ void main()
 	scanf("%d", &b);
 
 	printf("Sum: %d\n", a+b);
+	printf("Thank you!\n");
+
 }
